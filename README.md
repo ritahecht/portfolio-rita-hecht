@@ -1,5 +1,5 @@
 <h1 align="center">Portifólio - Rita Hecht</h1>
-
+<div align="center"><img src="https://github.com/ritahecht/Portifolio-RitaHecht/assets/89950512/a1ba4a33-4d6c-474e-a880-093442067f41" width="200" height="200"/></div>
 
 ## Introdução
 
