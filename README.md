@@ -1,4 +1,5 @@
-# Portifólio - Rita Hecht 
+<h1 align="center">Portifólio - Rita Hecht</h1>
+
 
 ## Introdução
 
