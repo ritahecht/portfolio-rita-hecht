@@ -22,7 +22,7 @@ Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada 
 
 ##
 
-<h2 align="left">📑Conhecimentos</h3>
+<h2 align="left">📑Meus Principais Conhecimentos</h3>
 <h4 align="left">Back-end</h4>
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -55,6 +55,10 @@ Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada 
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
+
+## Meus Projetos
+
+### Em 2021-2
 
 <div style="display: flex; align-items: center;">
 </div>
