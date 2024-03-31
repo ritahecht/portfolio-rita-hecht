@@ -55,7 +55,7 @@ Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada 
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
-##💻 Meus Projetos
+## 💻Meus Projetos
 
 ### Em 2021-2
 
