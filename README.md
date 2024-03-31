@@ -20,7 +20,6 @@ Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rita_hecht/)
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-##
 
 <h2 align="left">📑Meus Principais Conhecimentos</h3>
 <h4 align="left">Back-end</h4>
@@ -60,8 +59,72 @@ Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada 
 
 ### Em 2021-2
 
-<div style="display: flex; align-items: center;">
+Empresa parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
+
+Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
+
+<img src="https://github.com/ritahecht/Portifolio-RitaHecht/assets/89950512/28755152-1540-4532-9102-87ca63731332" width="300" height="200">
+
+<p align='justify'>
+Github <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a> </p>
+
+<h2 align='center'> Tecnologias Utilizadas</h2>
+<div>
+  <span>
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para a estruturação da página web.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para a estilização da página web.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para a construção de gráficos e hospedagem utilizando Flask.</b>  
+      </li>
+    </ul>
+  </span>
 </div>
 
-##
+<h2 align='center'> Contribuições Pessoais</h2>
 
+Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem ate a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
+
+<h2>Hard Skills</h2>
+
+1.	Programação em Python: Sei fazer com ajuda;
+2.	Desenvolvimento Web (HTML/CSS): Sei fazer com auxílio de consultas;
+3.	Controle de Versão (Git/GitHub): Sei fazer com autonomia;
+4.	Organização de Dados: Sei fazer com autonomia;
+5.	Criação de Protótipos Navegáveis com Figma: Sei fazer com autonomia;
+6.	Conceitos iniciais de arquitetura de software: Sei fazer com ajuda;
+7.	Conceitos aplicados de UX Designer: Sei fazer com ajuda.
+
+<h2>Soft Skills</h2>
+<p>
+•	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa.</p><br>
+<p>
+•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, deesenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos.</p><br><p>
+•	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação ate a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
