@@ -110,7 +110,7 @@ Github <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a>
 
 <h2 align='center'> Contribuições Pessoais</h2>
 
-Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem ate a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
+Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem até a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
 
 <h2>Hard Skills</h2>
 
@@ -126,5 +126,5 @@ Neste projeto contribui com a parte de front-end, onde minha atuação girou em 
 <p>
 •	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa.</p><br>
 <p>
-•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, deesenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos.</p><br><p>
-•	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação ate a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
+•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos.</p><br><p>
+•	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação até a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
