@@ -3,15 +3,7 @@
 
 # ✨ Introdução
 
-Olá!Eu sou a Rita e estou cursando minha primeira graduação, no curso 5ºsemestre de Análise e Desenvolvimento de Sistemas. Percebo toda a minha evolução, a autonomia adquirida com programas e softwares, além de me sentir mais dinâmica e confiante para elaborar projetos e desenvolvê-los. Já atuei nas APIs como Product Owner, Master e atualmente como desenvolvedora.
-
-Possuo cursos profissionalizantes na área administrativa, onde trabalhei profissionalmente até 2014. Durante minha carreira, trabalhei em diversas empresas com diferentes áreas de atuação. Decidi, então, dedicar-me integralmente à família e à criação dos meus filhos, retornando ao mercado de trabalho em 2017. Em 2019, devido à rotina de trabalho e à insatisfação com a remuneração, decidi tentar algo que oferecesse mais rentabilidade e disponibilidade de horário. Cadastrei-me como motorista de aplicativo, um ramo mais flexível em relação ao horário e com uma renda mais atrativa. Com o surgimento da Covid-19 e a necessidade do lockdown, houve uma mudança significativa em quase todas as áreas de trabalho, incluindo aquelas que não eram consideradas "serviços essenciais".
-
-Sempre em busca de melhores oportunidades e desejando acompanhar as demandas do mercado, resolvi arriscar-me na minha primeira graduação. Matriculei-me em alguns cursos, sempre direcionados à tecnologia, uma área que sempre me interessou e que tem apresentado alto índice de crescimento e desenvolvimento.
-
-No ano passado, surgiu uma oportunidade de estágio presencial por meio de indicação. No estágio, utilizo um software especializado em desenvolvimento de sites que oferece uma ampla gama de componentes pré-existentes. Esses componentes incluem elementos de design, funcionalidades interativas e recursos de usabilidade já prontos para uso. Ao invés de criar tudo do zero, aproveito esses componentes para agilizar o processo de desenvolvimento e garantir uma entrega eficiente e de alta qualidade. O software também nos possibilita a criação de códigos personalizados para desenvolver componentes específicos. Neste software, utilizamos ferramentas como CSS, HTML e JavaScript. Obtive resultados muito positivos ao desenvolver e trabalhar com este software e, como reconhecimento, atuo em home office.
-
-Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada em estudar e estagiar na área de análise de sistemas. Desde que entrei neste campo, descobri uma paixão por entender como os sistemas funcionam e como podemos melhorá-los. Cada dia de estudo e cada experiência de estágio me proporcionam uma sensação de satisfação. Identificar-me com este campo me motiva a continuar aprendendo e crescendo. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
+Olá! Meu nome é Rita e estou cursando o quinto semestre de Análise e Desenvolvimento de Sistemas. Anteriormente, trabalhei na área administrativa até 2014 e depois me dediquei à família, retornando ao mercado em 2017 como motorista de aplicativo. Com a chegada da pandemia, percebi a necessidade de me adaptar e decidi buscar uma carreira mais rentável e flexível. Assim, ingressei na área de tecnologia em minha primeira graduação e onde tenho me identificado. Atualmente, faço estágio em desenvolvimento de sites, utilizando software especializado. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
 
 
 ## ✉️Contatos
@@ -61,7 +53,10 @@ Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada 
 
 Empresa parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
 
-Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
+O desafio: A empresa parceira quer acesso e gerenciamento dos projetos de alunos, para nao ter problemas de perda ou serem deletados sem aviso prévio.
+Obejetivo: Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
+Conclusão: 
+
 
 <img src="https://github.com/ritahecht/Portifolio-RitaHecht/assets/89950512/28755152-1540-4532-9102-87ca63731332" width="300" height="200">
 
