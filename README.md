@@ -53,10 +53,11 @@ Olá! Meu nome é Rita e estou cursando o quinto semestre de Análise e Desenvol
 
 Empresa parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
 
-O desafio: A empresa parceira quer acesso e gerenciamento dos projetos de alunos, para nao ter problemas de perda ou serem deletados sem aviso prévio.
-Obejetivo: Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
-Conclusão: 
+A finalidade do projeto foi automatizar a clonagem de repositórios de trabalhos de API anteriores e futuros desenvolvidos pelos alunos da FATEC. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web administrada unicamente por profissionais ligados à FATEC e autorizados para tanto.
 
+Obejetivo: Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
+
+Para alcançar esse resultado, a equipe desenvolveu um script em Python responsável por automatizar a clonagem de repositórios GitHub de projetos anteriores da FATEC. Com a raspagem das URLs desses projetos, os repositórios são clonados e exibidos em uma página web construída com HTML, CSS e JavaScript, facilitando o acesso e a visualização dessas informações.
 
 <img src="https://github.com/ritahecht/Portifolio-RitaHecht/assets/89950512/28755152-1540-4532-9102-87ca63731332" width="300" height="200">
 
@@ -106,6 +107,7 @@ Github <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a>
 <h2 align='center'> Contribuições Pessoais</h2>
 
 Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem até a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
+Inicialmente tivemos dificuldades de comunicacao clara e para entender quais eram os requisitos a serem cumpridos dentro dos prazo pre definidos em relação às entregas. A adaptção a equipe, tecnologia e prazos foram meus principais desafios.
 
 <h2>Hard Skills</h2>
 
@@ -121,5 +123,6 @@ Neste projeto contribui com a parte de front-end, onde minha atuação girou em 
 <p>
 •	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa.</p><br>
 <p>
-•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos.</p><br><p>
+•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos. Para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p><br>
+<p>
 •	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação até a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
