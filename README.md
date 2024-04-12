@@ -121,7 +121,7 @@ Inicialmente tivemos dificuldades de comunicacao clara e para entender quais era
 
 <h2>Soft Skills</h2>
 <p>
-•	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa, e identificando quais falhas de comunicação precisavvamos melhorar para que a equipe pudesse desenvolver e compartilhar as experiências.</p><br>
+•	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa, e identificando quais falhas de comunicação precisavamos melhorar para que a equipe pudesse desenvolver e compartilhar as experiências.</p><br>
 <p>
 •	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos. Para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p><br>
 <p>
