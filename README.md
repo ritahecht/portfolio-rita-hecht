@@ -1,17 +1,9 @@
-<h1 align="center">Portifólio - Rita Hecht</h1>
+<h1 align="center">Portfólio - Rita Hecht</h1>
 <div align="center"><img src="https://github.com/ritahecht/Portifolio-RitaHecht/assets/89950512/a1ba4a33-4d6c-474e-a880-093442067f41" width="280" height="300"/></div>
 
 # ✨ Introdução
 
-Olá!Eu sou a Rita e estou cursando minha primeira graduação, no curso 5ºsemestre de Análise e Desenvolvimento de Sistemas. Percebo toda a minha evolução, a autonomia adquirida com programas e softwares, além de me sentir mais dinâmica e confiante para elaborar projetos e desenvolvê-los. Já atuei nas APIs como Product Owner, Master e atualmente como desenvolvedora.
-
-Possuo cursos profissionalizantes na área administrativa, onde trabalhei profissionalmente até 2014. Durante minha carreira, trabalhei em diversas empresas com diferentes áreas de atuação. Decidi, então, dedicar-me integralmente à família e à criação dos meus filhos, retornando ao mercado de trabalho em 2017. Em 2019, devido à rotina de trabalho e à insatisfação com a remuneração, decidi tentar algo que oferecesse mais rentabilidade e disponibilidade de horário. Cadastrei-me como motorista de aplicativo, um ramo mais flexível em relação ao horário e com uma renda mais atrativa. Com o surgimento da Covid-19 e a necessidade do lockdown, houve uma mudança significativa em quase todas as áreas de trabalho, incluindo aquelas que não eram consideradas "serviços essenciais".
-
-Sempre em busca de melhores oportunidades e desejando acompanhar as demandas do mercado, resolvi arriscar-me na minha primeira graduação. Matriculei-me em alguns cursos, sempre direcionados à tecnologia, uma área que sempre me interessou e que tem apresentado alto índice de crescimento e desenvolvimento.
-
-No ano passado, surgiu uma oportunidade de estágio presencial por meio de indicação. No estágio, utilizo um software especializado em desenvolvimento de sites que oferece uma ampla gama de componentes pré-existentes. Esses componentes incluem elementos de design, funcionalidades interativas e recursos de usabilidade já prontos para uso. Ao invés de criar tudo do zero, aproveito esses componentes para agilizar o processo de desenvolvimento e garantir uma entrega eficiente e de alta qualidade. O software também nos possibilita a criação de códigos personalizados para desenvolver componentes específicos. Neste software, utilizamos ferramentas como CSS, HTML e JavaScript. Obtive resultados muito positivos ao desenvolver e trabalhar com este software e, como reconhecimento, atuo em home office.
-
-Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada em estudar e estagiar na área de análise de sistemas. Desde que entrei neste campo, descobri uma paixão por entender como os sistemas funcionam e como podemos melhorá-los. Cada dia de estudo e cada experiência de estágio me proporcionam uma sensação de satisfação. Identificar-me com este campo me motiva a continuar aprendendo e crescendo. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
+Olá! Meu nome é Rita e estou cursando o quinto semestre de Análise e Desenvolvimento de Sistemas. Anteriormente, trabalhei na área administrativa até 2014 e depois me dediquei à família, retornando ao mercado em 2017 como motorista de aplicativo. Com a chegada da pandemia, percebi a necessidade de me adaptar e decidi buscar uma carreira mais rentável e flexível. Assim, ingressei na área de tecnologia em minha primeira graduação e onde tenho me identificado. Atualmente, faço estágio em desenvolvimento de sites, utilizando software especializado. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
 
 
 ## ✉️Contatos
@@ -55,13 +47,17 @@ Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada 
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
-## Meus Projetos
+## 💻Meus Projetos
 
-### Em 2021 - 1� Semestre
+### Em 2021-2
 
 Empresa parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
 
-Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
+A finalidade do projeto foi automatizar a clonagem de repositórios de trabalhos de API anteriores e futuros desenvolvidos pelos alunos da FATEC. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web administrada unicamente por profissionais ligados à FATEC e autorizados para tanto.
+
+Obejetivo: Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
+
+Para alcançar esse resultado, a equipe desenvolveu um script em Python responsável por automatizar a clonagem de repositórios GitHub de projetos anteriores da FATEC. Com a raspagem das URLs desses projetos, os repositórios são clonados e exibidos em uma página web construída com HTML, CSS e JavaScript, facilitando o acesso e a visualização dessas informações.
 
 <img src="https://github.com/ritahecht/Portifolio-RitaHecht/assets/89950512/28755152-1540-4532-9102-87ca63731332" width="300" height="200">
 
@@ -110,7 +106,8 @@ Github <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a>
 
 <h2 align='center'> Contribuições Pessoais</h2>
 
-Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem ate a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
+Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem até a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
+Inicialmente tivemos dificuldades de comunicacao clara e para entender quais eram os requisitos a serem cumpridos dentro dos prazo pre definidos em relação às entregas. A adaptção a equipe, tecnologia e prazos foram meus principais desafios.
 
 <h2>Hard Skills</h2>
 
@@ -124,11 +121,8 @@ Neste projeto contribui com a parte de front-end, onde minha atuação girou em 
 
 <h2>Soft Skills</h2>
 <p>
-•	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa.</p><br>
+•	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa, e identificando quais falhas de comunicação precisavamos melhorar para que a equipe pudesse desenvolver e compartilhar as experiências.</p><br>
 <p>
-•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, deesenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos.</p><br><p>
-•	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação ate a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
-
-
-
-### Em 2022 - 2� Semestre
+•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos. Para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p><br>
+<p>
+•	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação até a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
