@@ -57,7 +57,7 @@ Além disso, dedico-me à minha família como mãe e esposa. Sinto-me realizada 
 
 ## Meus Projetos
 
-### Em 2021-2
+### Em 2021 - 1� Semestre
 
 Empresa parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
 
@@ -128,3 +128,7 @@ Neste projeto contribui com a parte de front-end, onde minha atuação girou em 
 <p>
 •	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, deesenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos.</p><br><p>
 •	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação ate a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
+
+
+
+### Em 2022 - 2� Semestre
