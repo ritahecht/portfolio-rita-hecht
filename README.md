@@ -49,7 +49,7 @@ Olá! Meu nome é Rita e estou cursando o quinto semestre de Análise e Desenvol
 
 ## 💻Meus Projetos
 
-### Em 2021-2
+### Em 2/2021 - 1º Semestre
 
 Empresa parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
 
@@ -118,6 +118,75 @@ Inicialmente tivemos dificuldades de comunicacao clara e para entender quais era
 5.	Criação de Protótipos Navegáveis com Figma: Sei fazer com autonomia;
 6.	Conceitos iniciais de arquitetura de software: Sei fazer com ajuda;
 7.	Conceitos aplicados de UX Designer: Sei fazer com ajuda.
+
+<h2>Soft Skills</h2>
+<p>
+•	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa, e identificando quais falhas de comunicação precisavamos melhorar para que a equipe pudesse desenvolver e compartilhar as experiências.</p><br>
+<p>
+•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos. Para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p><br>
+<p>
+•	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação até a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
+
+## 💻2º Semestre 
+### Em 1/2022 
+
+Empresa parceira: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Tech</a><br>
+
+O propósito do projeto foi desenvolver um sistema de mensagens para centralizar a comunicação entre a empresa e seus clientes. A necessidade da empresa parceira de sistematizar e organizar as informações recebidas de clientes, essenciais para a eficácia dos serviços oferecidos.
+
+O sistema possui o objetivo de melhorar a comunicação entre funcionário e cliente, além de apresentar uma interface que facilite a organização dos projetos e o andamento de suas atividades.
+
+A solução foi elaborada utilizando Java para ambiente desktop, com o suporte de um banco de dados relacional desenvolvido em MySQL. Essa plataforma permite à empresa a comunicação direta e agrupada com clientes, facilitando o acesso e a gestão do histórico de comunicações e a produção de relatórios detalhados sobre essas interações.
+
+
+<img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/fe543aa0-c7a2-49c2-be25-9ebac1ec6b08" width="300" height="200">
+
+<p align='justify'>
+Github <a href='https://github.com/meta-build/Pro4System'>Pro4Tech</a> </p>
+
+<h2 align='center'> Tecnologias Utilizadas</h2>
+<div>
+  <span>
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">JAVA</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para construir tanto o visual quanto a lógica por trás do funcionamento da aplicação desenvolvida.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">MYSQL</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para armazenamento de dados.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+
+<h2 align='center'> Contribuições Pessoais</h2>
+
+Neste projeto tive a oportunidade de ser Product Owner, defini uma visão geral do produto, orientando o desenvolvimento e alinhando diretamente com cliente, para garantir todos seus requisitos. Exercendo comunicação eficaz entre o cliente e equipe de desenvolvimento.
+Mantive e priorizei o backlog do produto e dos itens. Nas sprints, minha atuação foi focada na criação do backlog e das User Stories, validação dos requisitos e entrega de valor. Documentação e auxílio no desenvolvimento, devido a dificuldades encontradas durante o desenvolvimento e quase estourando prazo nas entregas.
+
+
+<h2>Hard Skills</h2>
+
+1.	Programação em Java: Sei fazer com ajuda;
+2.	Modelagem de dados: Sei fazer com ajuda;
+3.	Controle de Versão (Git/GitHub): Sei fazer com autonomia;
+4.	Organização de Dados: Sei fazer com ajuda;
+5.	Manuseio de banco de dados SQL: Sei fazer com auxílio de consultas;
+
+Parei aqui 
 
 <h2>Soft Skills</h2>
 <p>
