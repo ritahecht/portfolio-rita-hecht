@@ -3,7 +3,7 @@
 
 # ✨ Introdução
 
-Olá! Meu nome é Rita e estou cursando o quinto semestre de Análise e Desenvolvimento de Sistemas. Anteriormente, trabalhei na área administrativa até 2014 e depois me dediquei à família, retornando ao mercado em 2017 como motorista de aplicativo. Com a chegada da pandemia, percebi a necessidade de me adaptar e decidi buscar uma carreira mais rentável e flexível. Assim, ingressei na área de tecnologia em minha primeira graduação e onde tenho me identificado. Atualmente, faço estágio em desenvolvimento de sites, utilizando software especializado. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
+Olá! Meu nome é Rita e estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas. Anteriormente, trabalhei na área administrativa até 2014 e depois me dediquei à família, retornando ao mercado em 2017 como motorista de aplicativo. Com a chegada da pandemia, percebi a necessidade de me adaptar e decidi buscar uma carreira mais rentável e flexível. Assim, ingressei na área de tecnologia em minha primeira graduação e onde tenho me identificado. Atualmente, faço estágio em desenvolvimento de sites, utilizando software especializado. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
 
 
 ## ✉️Contatos
@@ -49,9 +49,13 @@ Olá! Meu nome é Rita e estou cursando o quinto semestre de Análise e Desenvol
 
 ## 💻Meus Projetos
 
-### Em 2/2021 - 1º Semestre
-
-Empresa parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
+<details>
+    <summary>
+        <b>💻 1º Semestre</b>
+        <span style="cursor: pointer;">▼</span>
+    </summary>
+    <p><strong>Data:</strong> Agosto/2021</p>
+    <p>Empresa Parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
 
 A finalidade do projeto foi automatizar a clonagem de repositórios de trabalhos de API anteriores e futuros desenvolvidos pelos alunos da FATEC. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web administrada unicamente por profissionais ligados à FATEC e autorizados para tanto.
 
@@ -59,7 +63,11 @@ Obejetivo: Desenvolver um sistema com objetivo de armazenar e gerenciar projetos
 
 Para alcançar esse resultado, a equipe desenvolveu um script em Python responsável por automatizar a clonagem de repositórios GitHub de projetos anteriores da FATEC. Com a raspagem das URLs desses projetos, os repositórios são clonados e exibidos em uma página web construída com HTML, CSS e JavaScript, facilitando o acesso e a visualização dessas informações.
 
-<img src="https://github.com/ritahecht/Portifolio-RitaHecht/assets/89950512/28755152-1540-4532-9102-87ca63731332" width="300" height="200">
+<div>
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/e0eaac60-107f-43aa-81b1-9f173a4eeb52" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portifolio-RitaHecht/assets/89950512/28755152-1540-4532-9102-87ca63731332" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/534788ab-fe71-449a-87ab-ec9f39980175" width="300" height="200" style="display: inline-block;">
+</div>
 
 <p align='justify'>
 Github <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a> </p>
@@ -107,6 +115,7 @@ Github <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a>
 <h2 align='center'> Contribuições Pessoais</h2>
 
 Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem até a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
+
 Inicialmente tivemos dificuldades de comunicacao clara e para entender quais eram os requisitos a serem cumpridos dentro dos prazo pre definidos em relação às entregas. A adaptção a equipe, tecnologia e prazos foram meus principais desafios.
 
 <h2>Hard Skills</h2>
@@ -126,11 +135,17 @@ Inicialmente tivemos dificuldades de comunicacao clara e para entender quais era
 •	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos. Para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p><br>
 <p>
 •	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação até a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
+</p>
+</details>
 
-## 💻2º Semestre 
-### Em 1/2022 
 
-Empresa parceira: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Tech</a><br>
+<details>
+    <summary>
+        <b>💻 2º Semestre</b>
+        <span style="cursor: pointer;">▼</span>
+    </summary>
+    <p><strong>Data:</strong> Janeiro/2022</p>
+    <p>Empresa Parceira: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Tech</a><br>
 
 O propósito do projeto foi desenvolver um sistema de mensagens para centralizar a comunicação entre a empresa e seus clientes. A necessidade da empresa parceira de sistematizar e organizar as informações recebidas de clientes, essenciais para a eficácia dos serviços oferecidos.
 
@@ -138,8 +153,12 @@ O sistema possui o objetivo de melhorar a comunicação entre funcionário e cli
 
 A solução foi elaborada utilizando Java para ambiente desktop, com o suporte de um banco de dados relacional desenvolvido em MySQL. Essa plataforma permite à empresa a comunicação direta e agrupada com clientes, facilitando o acesso e a gestão do histórico de comunicações e a produção de relatórios detalhados sobre essas interações.
 
+<div>
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/6a413e15-a422-4d85-bf72-3f0c6dc07b08" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/fe543aa0-c7a2-49c2-be25-9ebac1ec6b08" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/5080ecab-a4a3-46fd-a5a4-c7a85fadc878" width="300" height="200" style="display: inline-block;">
+</div>
 
-<img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/fe543aa0-c7a2-49c2-be25-9ebac1ec6b08" width="300" height="200">
 
 <p align='justify'>
 Github <a href='https://github.com/meta-build/Pro4System'>Pro4Tech</a> </p>
@@ -147,7 +166,7 @@ Github <a href='https://github.com/meta-build/Pro4System'>Pro4Tech</a> </p>
 <h2 align='center'> Tecnologias Utilizadas</h2>
 <div>
   <span>
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">JAVA</img>
+    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">JAVA</img>
   </span>
   <span>
     <ul>
@@ -160,7 +179,7 @@ Github <a href='https://github.com/meta-build/Pro4System'>Pro4Tech</a> </p>
 <br>
 <div>
   <span>
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">MYSQL</img>
+    <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">MYSQL</img>
   </span>
   <span>
     <ul>
@@ -175,6 +194,7 @@ Github <a href='https://github.com/meta-build/Pro4System'>Pro4Tech</a> </p>
 <h2 align='center'> Contribuições Pessoais</h2>
 
 Neste projeto tive a oportunidade de ser Product Owner, defini uma visão geral do produto, orientando o desenvolvimento e alinhando diretamente com cliente, para garantir todos seus requisitos. Exercendo comunicação eficaz entre o cliente e equipe de desenvolvimento.
+
 Mantive e priorizei o backlog do produto e dos itens. Nas sprints, minha atuação foi focada na criação do backlog e das User Stories, validação dos requisitos e entrega de valor. Documentação e auxílio no desenvolvimento, devido a dificuldades encontradas durante o desenvolvimento e quase estourando prazo nas entregas.
 
 
@@ -186,12 +206,222 @@ Mantive e priorizei o backlog do produto e dos itens. Nas sprints, minha atuaç�
 4.	Organização de Dados: Sei fazer com ajuda;
 5.	Manuseio de banco de dados SQL: Sei fazer com auxílio de consultas;
 
-Parei aqui 
+<h2>Soft Skills</h2>
+<p>
+•	Comunicação – A comunicação clara e atenção nos requisitos, foram umas das principais atividades exercida. A ponte que tive que realizar ente cliente e equipe desenvolvedora foi um dos pilares mais importantes, para uma entrega que agregasse e atendesse o cliente e cumprisse os prazos. Na entrega decidimos implementar com chat de mensagens privado, onde seria um requisito de baixa prioridade, mas que agregaria valor ao projeto.</p><br>
+<p>
+•	Resolução de Problemas – Ao longo das sprints tive problemas com prazos, como exemplo na primeira sprint ocorreu de anteciparmos o desenvolvimento, porém na entrega seguimos uma linha de entrega da sprint em cima do prazo limite. Isso nos prejudicou na apresentação e nos requisitos acabamos que nao entregamos todas as telas , informadas ao cliente. Porém conseguimos entregar as telas de login e parceiros ja com backend dorando em todas as telas.<br>
+<p>
+•	Gerenciamento de Tempo – Este foi nosso maior desafio de escolher requisitos que primeiramente nos parecia simples, porém demandaram muito mais tempo excedendo a linha do ideal. Neste momento nas últimas horas de entrega solicitei a toda equipe que concentrasse neste requisito para que terminasse no prazo e pudéssemos entregar. Com esta força tarefa e empenho de todos apesar de uma linha nada ideal, conseguimos entregar no prazo. E o requisito de mensagens privadas agreagaram muito mais valor a entrega.</p></p>
+</details>
+
+
+
+
+<details>
+    <summary>
+        <b>💻 3º Semestre</b>
+        <span style="cursor: pointer;">▼</span>
+    </summary>
+    <p><strong>Data:</strong> Agosto/2022</p>
+    <p>Empresa Parceira: <a href='https://www.linkedin.com/company/trackcash/'>TrackCash</a><br>
+
+O projeto proposto era desenvolver um software capaz de autorizar o acesso às informações de vendas dos clientes da empresa parceira TrackCash como API’s e planilhas de forma automatizada com intuito de otimizar o processo de reconciliação financeira.
+
+<div>
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/86f64300-6135-45ce-bcd4-bcb719ac23d6" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/de8bd18c-2bc7-49e8-a285-72d265807dc1" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/cda9865c-662b-47b1-82a5-f362984e41c3" width="300" height="200" style="display: inline-block;">
+</div>
+
+<p align='justify'>
+Github <a href='https://github.com/TechForce-ADS/TrackCash'>TrackCash</a> </p>
+
+<h2 align='center'> Tecnologias Utilizadas</h2>
+<div>
+  <span>
+    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">JAVA</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para construir tanto o visual quanto a lógica por trás do funcionamento da aplicação desenvolvida.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">MYSQL</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para armazenamento de dados.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+
+<h2 align='center'> Contribuições Pessoais</h2>
+
+Nesta API, tive a oportunidade me aprofundar na área de front-end. O que ampliou significativamente meu repertório. Ainda com dificuldade em entender a organização e desenvolvimento da equipe, fiz um CRUD que nao foi utilizado no projeto, porém me proporcionou uma visão mais ampla e agregou muito mais conhecimento. Além poder apoiar em alguns ajustes e acompanhar algumas integrações entre o front-end e o back-end, entendendo melhor como tornar as telas funcionais.
+
+
+<h2>Hard Skills</h2>
+
+1.	Programação em Java: Sei fazer com autonomia;
+2.	Modelagem de dados: Sei fazer com ajuda;
+3.	Controle de Versão (Git/GitHub): Sei fazer com autonomia;
+4.	Organização de Dados: Sei fazer com ajuda;
+5.	Manuseio de banco de dados SQL: Sei fazer com auxílio de consultas;
+
+
 
 <h2>Soft Skills</h2>
 <p>
-•	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa, e identificando quais falhas de comunicação precisavamos melhorar para que a equipe pudesse desenvolver e compartilhar as experiências.</p><br>
+•	Comunicação – Devido a mudança de equipe tive muitos problemas com comunicação, a falta de profissionalismo de alguns membros da equipe me fizeram não compartilha dificuldades em entender o código e com isso criar discussões.</p><br>
 <p>
-•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos. Para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p><br>
+•	Resolução de Problemas – Após muita dificuldade na comunicação consegui expor meu ponto de vista e definir plano estratégico para fazer minhas entregas com valor e cumprindo prazos. Com isso pude contribuir com mais autonomia e aprimorar minha habilidade. Além de ouvir ativamente e comprrender diversas ideias diferentes. <br>
 <p>
-•	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação até a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
+•	Gerenciamento de Tempo – Por estar mais envolvida com o desenvolvimento, pude contribuir com novas ideias e trabalhar a possibilidade de abordar problemas de maneira inovadora. Porém isso me trouxe muita dificuldade em manter prazos e mostrar resultados.</p>
+</p>
+</details>
+
+<details>
+    <summary>
+        <b>💻 4º Semestre</b>
+        <span style="cursor: pointer;">▼</span>
+    </summary>
+    <p><strong>Data:</strong> Janeiro/2023</p>
+    <p>Empresa Parceira: <a href='https://www.linkedin.com/company/visiona-tecnologia-espacial-s-a-/'>Visona</a><br>
+
+Neste projeto o cliente parceiro Visiona Tecnologia Espacial, procurava um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. 
+Um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usuários, sejam criados, visualizados, editados e removidos.
+
+
+<div>
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/788e824c-f161-488d-a278-d4be8cfe9170" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/566ba979-188f-47aa-93af-f9c2ac64ef6a" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/1f2af395-c9b7-44c3-9a69-643b41bb58c9" width="300" height="200" style="display: inline-block;">
+</div>
+
+<p align='justify'>
+Github <a href='https://github.com/4DeskGroup/API-2023.1'>Visiona</a> </p>
+
+<h2 align='center'> Tecnologias Utilizadas</h2>
+<div>
+  <span>
+    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">React</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Uma biblioteca front-end que foi utilizada para criação das interfaces de usuário.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">JavaScript</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>A partir dela, foi possível criar conteúdo com atualização dinâmica, múltimídias, imagens animadas, entre outros. </b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+  <span>
+    <img align="center" alt="type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">TypeScript</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada linguagem de programação que adiciona recursos avançados ao JavaScript, como a tipagem estática e interfaces. Com ela, fica mais fácil detectar e prevenir erros durante a fase de desenvolvimento.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+  <span>
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node.JS</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para desenvolver o Back-end da aplicação.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+<div>
+  <span>
+    <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para desenvolvimento de componentes de interface e front-end em aplicações web. Foi aplicado para melhorar a experiência do usuário e tornar a aplicação mais amigável e responsiva.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+  <span>
+    <img align="center" alt="postgree" height="40" width="40" src="https://github.com/ritahecht/ritahecht/assets/89950512/b8c3c9a2-d210-4aa5-a007-df595b037727">PostgreSQL</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para registrar, armazenar e tratar todos os dados necessários para o bom funcionamento da aplicação.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+  <span>
+    <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">Figma</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para Prototipagem do projeto</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+
+<h2 align='center'> Contribuições Pessoais</h2>
+
+Durante as sprints, trabalhei na implementação das interfaces de usuário, utilizando tecnologias para criar layouts responsivos e interativos. Realizei integrações com o backend para garantir que as telas funcionassem corretamente, consumindo e exibindo os dados fornecidos pelas APIs. Além disso, otimizei o desempenho das páginas, garantindo uma experiência de usuário fluida e rápida. Ao longo do processo, também participei de testes de usabilidade e resolução de bugs para garantir a qualidade do produto final.
+
+
+<h2>Hard Skills</h2>
+
+1.	Programação em TypeScript: Sei fazer com ajuda;
+2.	Desenvolvimeto Web em ReactJS: Sei fazer com ajuda;
+3.	Desenvolvimento back-end com NodeJS: Sei fazer com ajuda;
+4.	Gerenciamento de Banco de Dados SQL Sei fazer com auxílio de consultas;
+6.	Criação de Protótipos Navegáveis com Figma: Sei fazer com autonomia;
+7. Conceitos iniciais de arquitetura de software: Sei fazer com ajuda;
+
+
+
+<h2>Soft Skills</h2>
+<p>
+•	Organização e Planejamento – Desenvolver e garantir que os métodos funcionem corretamente, além de testá-los e corrigir falhas, necessitou de uma habilidade significativa de resolução de problemas. Assim, tive que identificar e abordar questões técnicas e funcionais, demonstrando a capacidade de analisar problemas complexos e encontrar soluções eficazes.</p><br>
+<p>
+•	Resolução de Problemas – No projeto, assumi o compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, mesmo tendo dificuldades técnicas. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais. <br>
+<p>
+•	Gerenciamento de Tempo – No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite..</p>
+</p>
+</details>
