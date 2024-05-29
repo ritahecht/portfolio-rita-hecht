@@ -434,7 +434,7 @@ Durante as sprints, trabalhei na implementação das interfaces de usuário, uti
     <p><strong>Data:</strong> Janeiro/2024</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/oracle/'>oracle</a><br>
 
-Neste projeto o cliente parceiro Oracle, propos  desenvolvimento de um aplicativo mobile, um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
+Neste projeto o cliente parceiro Oracle, propôs desenvolvimento de um aplicativo mobile, um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
 
 
 <div>
