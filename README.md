@@ -292,6 +292,142 @@ Nesta API, tive a oportunidade me aprofundar na área de front-end. O que amplio
 
 <details>
     <summary>
+        <b>💻 4º Semestre</b>
+        <span style="cursor: pointer;">▼</span>
+    </summary>
+    <p><strong>Data:</strong> Janeiro/2023</p>
+    <p>Empresa Parceira: <a href='https://www.linkedin.com/company/visiona-tecnologia-espacial-s-a-/'>Visona</a><br>
+
+Neste projeto o cliente parceiro Visiona Tecnologia Espacial, procurava um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. 
+Um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usuários, sejam criados, visualizados, editados e removidos.
+
+
+<div>
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/788e824c-f161-488d-a278-d4be8cfe9170" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/566ba979-188f-47aa-93af-f9c2ac64ef6a" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/1f2af395-c9b7-44c3-9a69-643b41bb58c9" width="300" height="200" style="display: inline-block;">
+</div>
+
+<p align='justify'>
+Github <a href='https://github.com/4DeskGroup/API-2023.1'>Visiona</a> </p>
+
+<h2 align='center'> Tecnologias Utilizadas</h2>
+<div>
+  <span>
+    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">React</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Uma biblioteca front-end que foi utilizada para criação das interfaces de usuário.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">JavaScript</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>A partir dela, foi possível criar conteúdo com atualização dinâmica, múltimídias, imagens animadas, entre outros. </b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+  <span>
+    <img align="center" alt="type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">TypeScript</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada linguagem de programação que adiciona recursos avançados ao JavaScript, como a tipagem estática e interfaces. Com ela, fica mais fácil detectar e prevenir erros durante a fase de desenvolvimento.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+  <span>
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node.JS</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para desenvolver o Back-end da aplicação.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+<div>
+  <span>
+    <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para desenvolvimento de componentes de interface e front-end em aplicações web. Foi aplicado para melhorar a experiência do usuário e tornar a aplicação mais amigável e responsiva.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+  <span>
+    <img align="center" alt="postgree" height="40" width="40" src="https://github.com/ritahecht/ritahecht/assets/89950512/b8c3c9a2-d210-4aa5-a007-df595b037727">PostgreSQL</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para registrar, armazenar e tratar todos os dados necessários para o bom funcionamento da aplicação.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div>
+  <span>
+    <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">Figma</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para Prototipagem do projeto</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+
+<h2 align='center'> Contribuições Pessoais</h2>
+
+Durante as sprints, trabalhei na implementação das interfaces de usuário, utilizando tecnologias para criar layouts responsivos e interativos. Realizei integrações com o backend para garantir que as telas funcionassem corretamente, consumindo e exibindo os dados fornecidos pelas APIs. Além disso, otimizei o desempenho das páginas, garantindo uma experiência de usuário fluida e rápida. Ao longo do processo, também participei de testes de usabilidade e resolução de bugs para garantir a qualidade do produto final.
+
+
+<h2>Hard Skills</h2>
+
+1.	Programação em TypeScript: Sei fazer com ajuda;
+2.	Desenvolvimeto Web em ReactJS: Sei fazer com ajuda;
+3.	Desenvolvimento back-end com NodeJS: Sei fazer com ajuda;
+4.	Gerenciamento de Banco de Dados SQL Sei fazer com auxílio de consultas;
+6.	Criação de Protótipos Navegáveis com Figma: Sei fazer com autonomia;
+7. Conceitos iniciais de arquitetura de software: Sei fazer com ajuda;
+
+
+
+<h2>Soft Skills</h2>
+<p>
+•	Organização e Planejamento – Desenvolver e garantir que os métodos funcionem corretamente, além de testá-los e corrigir falhas, necessitou de uma habilidade significativa de resolução de problemas. Assim, tive que identificar e abordar questões técnicas e funcionais, demonstrando a capacidade de analisar problemas complexos e encontrar soluções eficazes.</p><br>
+<p>
+•	Resolução de Problemas – No projeto, assumi o compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, mesmo tendo dificuldades técnicas. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais. <br>
+<p>
+•	Gerenciamento de Tempo – No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite..</p>
+</p>
+</details>
+
+<details>
+    <summary>
         <b>💻 5º Semestre</b>
         <span style="cursor: pointer;">▼</span>
     </summary>
