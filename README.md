@@ -292,34 +292,33 @@ Nesta API, tive a oportunidade me aprofundar na área de front-end. O que amplio
 
 <details>
     <summary>
-        <b>💻 4º Semestre</b>
+        <b>💻 5º Semestre</b>
         <span style="cursor: pointer;">▼</span>
     </summary>
-    <p><strong>Data:</strong> Janeiro/2023</p>
-    <p>Empresa Parceira: <a href='https://www.linkedin.com/company/visiona-tecnologia-espacial-s-a-/'>Visona</a><br>
+    <p><strong>Data:</strong> Janeiro/2024</p>
+    <p>Empresa Parceira: <a href='https://www.linkedin.com/company/oracle/'>oracle</a><br>
 
-Neste projeto o cliente parceiro Visiona Tecnologia Espacial, procurava um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. 
-Um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usuários, sejam criados, visualizados, editados e removidos.
+Neste projeto o cliente parceiro Oracle, propos  desenvolvimento de um aplicativo mobile, um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
 
 
 <div>
-  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/788e824c-f161-488d-a278-d4be8cfe9170" width="300" height="200" style="display: inline-block;">
-  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/566ba979-188f-47aa-93af-f9c2ac64ef6a" width="300" height="200" style="display: inline-block;">
-  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/1f2af395-c9b7-44c3-9a69-643b41bb58c9" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/0ce7895f-eeea-4fc7-bb2c-a812adbaffb1" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/6c9e9b8a-2379-449b-9c15-66b37a972f9e" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/ritahecht/Portfolio-RitaHecht/assets/89950512/25c24f2c-ebb4-4c0a-9574-c6d5fcb8f3bf" width="300" height="200" style="display: inline-block;">
 </div>
 
 <p align='justify'>
-Github <a href='https://github.com/4DeskGroup/API-2023.1'>Visiona</a> </p>
+Github <a href='https://github.com/atomofatec/API-ORACLE/tree/main'>Oracle</a> </p>
 
 <h2 align='center'> Tecnologias Utilizadas</h2>
 <div>
   <span>
-    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">React</img>
+    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">React Native</img>
   </span>
   <span>
     <ul>
       <li>
-        <b>Uma biblioteca front-end que foi utilizada para criação das interfaces de usuário.</b>  
+        <b>Uma biblioteca front-end que foi utilizada para criação das interfaces direcinada para mobile.</b>  
       </li>
     </ul>
   </span>
@@ -337,43 +336,7 @@ Github <a href='https://github.com/4DeskGroup/API-2023.1'>Visiona</a> </p>
     </ul>
   </span>
 </div>
-<div>
-  <span>
-    <img align="center" alt="type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">TypeScript</img>
-  </span>
-  <span>
-    <ul>
-      <li>
-        <b>Utilizada linguagem de programação que adiciona recursos avançados ao JavaScript, como a tipagem estática e interfaces. Com ela, fica mais fácil detectar e prevenir erros durante a fase de desenvolvimento.</b>  
-      </li>
-    </ul>
-  </span>
-</div>
-<div>
-  <span>
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node.JS</img>
-  </span>
-  <span>
-    <ul>
-      <li>
-        <b>Utilizado para desenvolver o Back-end da aplicação.</b>  
-      </li>
-    </ul>
-  </span>
-</div>
-<div>
-<div>
-  <span>
-    <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</img>
-  </span>
-  <span>
-    <ul>
-      <li>
-        <b>Utilizado para desenvolvimento de componentes de interface e front-end em aplicações web. Foi aplicado para melhorar a experiência do usuário e tornar a aplicação mais amigável e responsiva.</b>  
-      </li>
-    </ul>
-  </span>
-</div>
+
 <div>
   <span>
     <img align="center" alt="postgree" height="40" width="40" src="https://github.com/ritahecht/ritahecht/assets/89950512/b8c3c9a2-d210-4aa5-a007-df595b037727">PostgreSQL</img>
@@ -386,42 +349,43 @@ Github <a href='https://github.com/4DeskGroup/API-2023.1'>Visiona</a> </p>
     </ul>
   </span>
 </div>
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <span>MongoDB</span>
+</div>
 <div>
-  <span>
-    <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">Figma</img>
-  </span>
-  <span>
-    <ul>
-      <li>
-        <b>Utilizado para Prototipagem do projeto</b>  
-      </li>
-    </ul>
-  </span>
+  <ul>
+    <li><b>Utilizado para armazenamento e gerenciamento dos dados.</b></li>
+  </ul>
 </div>
 <br>
 
 <h2 align='center'> Contribuições Pessoais</h2>
 
-Durante as sprints, trabalhei na implementação das interfaces de usuário, utilizando tecnologias para criar layouts responsivos e interativos. Realizei integrações com o backend para garantir que as telas funcionassem corretamente, consumindo e exibindo os dados fornecidos pelas APIs. Além disso, otimizei o desempenho das páginas, garantindo uma experiência de usuário fluida e rápida. Ao longo do processo, também participei de testes de usabilidade e resolução de bugs para garantir a qualidade do produto final.
-
+Durante as sprints, contribui na parte de front-end desenvolvendo com uma ferramenta nova responsiva, React Native. Realizei o desenvolvimento, ajustes e testes de adaptação de luminosidade das telas. Efetuei as integrações entre o front-end e o back-end das telas em que estive diretamente envolvida (detalhes de ativos, perfil do usuário, ferramentas de administrador e telas de edição). Essas atividades me permitiram entender na prática como é possível tornar as telas funcionais.
+Essa experiência me permitiu muita troca com mais componentes e muito aprendizado em termos de desenvolvimento de sistemas. Nesse projeto também tive a oportunidade de ter o primeiro contato com o desenvolvimento mobile e ferramentas como Android Studio, Expo e React Native.
 
 <h2>Hard Skills</h2>
 
-1.	Programação em TypeScript: Sei fazer com ajuda;
-2.	Desenvolvimeto Web em ReactJS: Sei fazer com ajuda;
-3.	Desenvolvimento back-end com NodeJS: Sei fazer com ajuda;
-4.	Gerenciamento de Banco de Dados SQL Sei fazer com auxílio de consultas;
-6.	Criação de Protótipos Navegáveis com Figma: Sei fazer com autonomia;
-7. Conceitos iniciais de arquitetura de software: Sei fazer com ajuda;
+1.	Desenvolvimento Mobile em React Native: Sei fazer com ajuda;
+2.	Uso de tags HTML: Sei fazer com autonomia;
+3.	Aplicação de recursos CSS: Sei fazer com auxílio de consultas;
+4.	Desenvolvimento back-end com NodeJS: Sei fazer com ajuda;
+6.	Controle de Versão (Git/GitHub): Sei fazer com autonomia;
+7. Gerenciamento de Banco de Dados SQL (PostgreSQL): Sei fazer com auxílio de consultas;
+8. Gerenciamento de Banco de Dados NoSQL (MongoDB): Sei fazer com ajuda;
+9. Criação de Protótipos Navegáveis (Figma): Sei fazer com autonomia;
+10. Conceitos de arquitetura de software: Sei fazer com ajuda;
 
 
 
 <h2>Soft Skills</h2>
 <p>
-•	Organização e Planejamento – Desenvolver e garantir que os métodos funcionem corretamente, além de testá-los e corrigir falhas, necessitou de uma habilidade significativa de resolução de problemas. Assim, tive que identificar e abordar questões técnicas e funcionais, demonstrando a capacidade de analisar problemas complexos e encontrar soluções eficazes.</p><br>
+•	Organização e Planejamento – Pela primeira vez assumi uma atividade de conecção front-end e back-end. Consegui entregar a estrutura dos controllers, especificamente na tela de edição parceiro, administrador e nas tela cadastro parceiro/administrador.</p><br>
 <p>
-•	Resolução de Problemas – No projeto, assumi o compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, mesmo tendo dificuldades técnicas. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais. <br>
+•	Equipe – Ao longo das sprints, encontrei bastante espaço para colaborar com os demais membros do grupo, compartilhar responsabilidades e contribuir para objetivos comuns. Um dos pontos mais importantes, foram as informações claras sobre as tarefas. <br>
 <p>
-•	Gerenciamento de Tempo – No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite..</p>
+•	Gerenciamento de Tempo – No projeto, tive muita autonomia no desenvolvimento. Isso me deixou confortável em desenvolver em tempo necessário para aprender com mais atenção todo o sistema criado.</p>
 </p>
 </details>
+
