@@ -499,8 +499,8 @@ Github <a href='https://github.com/atomofatec/API-ORACLE/tree/main'>Oracle</a> <
 <h2 align='center'> Contribuições Pessoais</h2>
 
 Durante as sprints, contribui na parte de front-end desenvolvendo com uma ferramenta nova responsiva, React Native. Realizei o desenvolvimento, ajustes e testes de adaptação de luminosidade das telas. Efetuei as integrações entre o front-end e o back-end das telas em que estive diretamente envolvida (detalhes de ativos, perfil do usuário, ferramentas de administrador e telas de edição). Essas atividades me permitiram entender na prática como é possível tornar as telas funcionais.
-Neste projeto o contato com cliente trouxe algumas divergencias e dificuldades na compreensão dos requisitos referente a expertise, onde a idéia entregue não correspondeu com a necessidade do cliente. Onde a expertise que seria mais detalhas e teriam uma página mais ampla.
-Essa experiência me permitiu muita troca com mais componentes e muito aprendizado em termos de desenvolvimento de sistemas. Nesse projeto também tive a oportunidade de ter o primeiro contato com o desenvolvimento mobile e ferramentas como Android Studio, Expo e React Native.
+Neste projeto o contato com cliente trouxe algumas divergencias e dificuldades na compreensão dos requisitos referente a expertise, onde a idéia entregue não correspondeu com a necessidade do cliente. Onde a expertise seriam mais detalhadas e teriam uma página mais ampla.
+Essa experiência me permitiu muita troca com componentes do front-end e muito aprendizado no desenvolvimento de sistemas. Nesse projeto também tive a oportunidade de ter o primeiro contato com o desenvolvimento mobile e ferramentas como Android Studio, Expo e React Native.
 
 <h2>Hard Skills</h2>
 
