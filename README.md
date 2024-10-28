@@ -3,7 +3,7 @@
 
 # ✨ Introdução
 
-Olá! Meu nome é Rita e estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas. Anteriormente, trabalhei na área administrativa até 2014 e depois me dediquei à família, retornando ao mercado em 2017 como motorista de aplicativo. Com a chegada da pandemia, percebi a necessidade de me adaptar e decidi buscar uma carreira mais rentável e flexível. Assim, ingressei na área de tecnologia em minha primeira graduação e onde tenho me identificado. Atualmente, faço estágio em desenvolvimento de sites, utilizando software especializado. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
+Olá! Meu nome é Rita e estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas. Anteriormente, trabalhei na área administrativa até 2014 e depois me dediquei à família, retornando ao mercado em 2017 como motorista de aplicativo. Com a chegada da pandemia, percebi a necessidade de me adaptar e decidi buscar uma carreira mais rentável e flexível. Assim, ingressei na área de tecnologia em minha primeira graduação e onde tenho me identificado. Atualmente, faço estágio no Portal Meon Comunicação e desenvolvo páginas do site utilizando software especializado. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
 
 
 ## ✉️Contatos
