@@ -3,7 +3,7 @@
 
 # ✨ Introdução
 
-Olá! Meu nome é Rita e estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas. Anteriormente, trabalhei na área administrativa até 2014 e depois me dediquei à família, retornando ao mercado em 2017 como motorista de aplicativo. Com a chegada da pandemia, percebi a necessidade de me adaptar e decidi buscar uma carreira mais rentável e flexível. Assim, ingressei na área de tecnologia em minha primeira graduação e onde tenho me identificado. Atualmente, faço estágio no Portal Meon Comunicação e desenvolvo páginas do site utilizando software especializado. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
+Olá! Meu nome é Rita e estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas. Anteriormente, trabalhei na área administrativa até 2014 e depois me dediquei à família, retornando ao mercado em 2017 como motorista de aplicativo. Com a chegada da pandemia, percebi a necessidade de me adaptar e decidi buscar uma carreira mais rentável e flexível. Assim, ingressei na área de tecnologia em minha primeira graduação e onde tenho me identificado. Atualmente, faço estágio no Portal Meon Comunicação e desenvolvo páginas do site utilizando software especializado. Nas horas vagas, trabalho como motorista de aplicativo para complementar a renda.
 
 
 ## ✉️Contatos
@@ -56,10 +56,11 @@ Olá! Meu nome é Rita e estou cursando o 5º semestre de Análise e Desenvolvim
     </summary>
     <p><strong>Data:</strong> Agosto/2021</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a><br>
+    <P?>Professor: Antônio Egydio Santiago Graça</P>
 
-A finalidade do projeto foi automatizar a clonagem de repositórios de trabalhos de API anteriores e futuros desenvolvidos pelos alunos da FATEC. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web administrada unicamente por profissionais ligados à FATEC e autorizados para tanto.
+A finalidade do projeto foi automatizar a clonagem de repositórios de trabalhos de API anteriores e futuros desenvolvidos pelos alunos da FATEC. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web administrada unicamente por profissionais ligados à FATEC e autorizados para tanto. A instituição possuía dificuldade em centralizar todos esses projetos de turmas e semestres anteriores, havendo o perigo de alguns repositórios não ficarem mais disponíveis ao público, uma vez que originalmente esses projetos estão no controle de cada dono do respectivo repositório.
 
-Obejetivo: Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
+Objetivo: Desenvolver um sistema com objetivo de armazenar e gerenciar projetos do github, evitando problemas como perda ou alterações de arquivos, possibilitando autonomia e controle total para instituição.
 
 Para alcançar esse resultado, a equipe desenvolveu um script em Python responsável por automatizar a clonagem de repositórios GitHub de projetos anteriores da FATEC. Com a raspagem das URLs desses projetos, os repositórios são clonados e exibidos em uma página web construída com HTML, CSS e JavaScript, facilitando o acesso e a visualização dessas informações.
 
@@ -116,6 +117,8 @@ Github <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a>
 
 Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem até a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
 
+Responsável na definição do design e desenvolvimento de wireframes da aplicação web através da ferramenta "Canvas", no desenvolvimento das páginas Home, e páginas contendo os links para os Githubs de cada grupo, dividios por turma, semestre e ano. 
+
 Inicialmente tivemos dificuldades de comunicacao clara e para entender quais eram os requisitos a serem cumpridos dentro dos prazo pre definidos em relação às entregas. A adaptção a equipe, tecnologia e prazos foram meus principais desafios.
 
 <h2>Hard Skills</h2>
@@ -147,7 +150,7 @@ Inicialmente tivemos dificuldades de comunicacao clara e para entender quais era
     <p><strong>Data:</strong> Janeiro/2022</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Tech</a><br>
 
-O propósito do projeto foi desenvolver um sistema de mensagens para centralizar a comunicação entre a empresa e seus clientes. A necessidade da empresa parceira de sistematizar e organizar as informações recebidas de clientes, essenciais para a eficácia dos serviços oferecidos.
+O propósito do projeto foi desenvolver um sistema de mensagens para centralizar a comunicação entre a empresa e seus clientes. A necessidade da empresa parceira de sistematizar e organizar as informações recebidas de clientes, essenciais para a eficácia dos serviços oferecidos. A empresa apresentou o problema da comunicação entre funcionário e clientes e o gerenciamento de projetos em andamento.
 
 O sistema possui o objetivo de melhorar a comunicação entre funcionário e cliente, além de apresentar uma interface que facilite a organização dos projetos e o andamento de suas atividades.
 
@@ -226,6 +229,11 @@ Mantive e priorizei o backlog do produto e dos itens. Nas sprints, minha atuaç�
     <p><strong>Data:</strong> Agosto/2022</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/trackcash/'>TrackCash</a><br>
 
+A TrackCash é uma empresa focada na gestão financeira, projetada para ajudar empresas de diferentes tamanhos e setores para organizar suas finanças.  Seu ponto forte são vendedores de Marketplace.  Com a demanda e a falta de uma visão consolidada dessas informações de diferentes marketplaces e lojas físicas. Tornanaram a conciliação financeira um processo complexo e com muito a erros.
+
+Com a problemática central surge da necessidade de uma aplicação que permita o acesso seguro e autorizado aos dados dos clientes.  
+A proposta é uma aplicação onde os clientes deem autorização por meio de email/senha ou tokens para que os sistemas da TrackCash possam ter acesso a determinadas configurações como: apis e planilhas automatizadas, assim o sistema salvará as informações de usuários/senhas e tokens.
+
 O projeto proposto era desenvolver um software capaz de autorizar o acesso às informações de vendas dos clientes da empresa parceira TrackCash como API’s e planilhas de forma automatizada com intuito de otimizar o processo de reconciliação financeira.
 
 <div>
@@ -267,7 +275,8 @@ Github <a href='https://github.com/TechForce-ADS/TrackCash'>TrackCash</a> </p>
 
 <h2 align='center'> Contribuições Pessoais</h2>
 
-Nesta API, tive a oportunidade me aprofundar na área de front-end. O que ampliou significativamente meu repertório. Ainda com dificuldade em entender a organização e desenvolvimento da equipe, fiz um CRUD que nao foi utilizado no projeto, porém me proporcionou uma visão mais ampla e agregou muito mais conhecimento. Além poder apoiar em alguns ajustes e acompanhar algumas integrações entre o front-end e o back-end, entendendo melhor como tornar as telas funcionais.
+Nesta API, tive a oportunidade me aprofundar na área de front-end. O que ampliou significativamente meu repertório. Ainda com dificuldade em entender a organização e desenvolvimento da equipe, fiz um CRUD que nao foi utilizado no projeto, porém me proporcionou uma visão mais ampla e agregou muito mais conhecimento. Além poder apoiar em alguns ajustes e acompanhar algumas integrações entre o front-end e o back-end, entendendo melhor como tornar as telas funcionais. 
+Responsável pela tela de Login na primeira sprint, tela editar canais na segunda sprint. Na terceira sprint iniciamos página administrador e na quarta e última sprint finalizei a página administrador.
 
 
 <h2>Hard Skills</h2>
@@ -298,7 +307,8 @@ Nesta API, tive a oportunidade me aprofundar na área de front-end. O que amplio
     <p><strong>Data:</strong> Janeiro/2023</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/visiona-tecnologia-espacial-s-a-/'>Visona</a><br>
 
-Neste projeto o cliente parceiro Visiona Tecnologia Espacial, procurava um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. 
+Com dificuldades de visao geral de seus usarios e integração aos sistemas. Neste projeto o cliente parceiro Visiona Tecnologia Espacial, procurava um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. Solução é desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos. 
+
 Um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usuários, sejam criados, visualizados, editados e removidos.
 
 
@@ -404,6 +414,8 @@ Github <a href='https://github.com/4DeskGroup/API-2023.1'>Visiona</a> </p>
 
 Durante as sprints, trabalhei na implementação das interfaces de usuário, utilizando tecnologias para criar layouts responsivos e interativos. Realizei integrações com o backend para garantir que as telas funcionassem corretamente, consumindo e exibindo os dados fornecidos pelas APIs. Além disso, otimizei o desempenho das páginas, garantindo uma experiência de usuário fluida e rápida. Ao longo do processo, também participei de testes de usabilidade e resolução de bugs para garantir a qualidade do produto final.
 
+Responsável pela tela login e cadastro. Pelo desenvolvimento das telas de login e cadastro, implementando componentes como campos de entrada para e-mail e senha, botões de acesso e validação de dados. Na tela de cadastro, criei formulários para informações pessoais, com feedback em tempo real para erros. Estilizei ambas as telas para garantir uma experiência responsiva e alinhada com a identidade visual do projeto. Essas implementações contribuíram para uma interação inicial fluida e intuitiva para os usuários.
+
 
 <h2>Hard Skills</h2>
 
@@ -434,7 +446,10 @@ Durante as sprints, trabalhei na implementação das interfaces de usuário, uti
     <p><strong>Data:</strong> Janeiro/2024</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/oracle/'>oracle</a><br>
 
-Neste projeto o cliente parceiro Oracle, propôs desenvolvimento de um aplicativo mobile, um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
+A necessidade do cliente é automatizar e simplificar o gerenciamento de parceiros registrados no programa Oracle PartnerNetwork, visando facilitar o cadastro, atualização de informações, acompanhamento de desenvolvimento de conhecimento e geração de relatórios em uma plataforma mobile.
+Neste projeto o cliente parceiro Oracle, propôs desenvolvimento de um aplicativo mobile, um sistema de gestão de parceiros para a Oracle. 
+Com dificuldades por não centralizar as gestões dos parceiros, a falta de otimização do controle de informações para acompanhamento eficaz de seu desenvolvimento e sem uma visão integrada do desempenho. O que facilitaria as decisões estratégicas e melhoraria o suporte aos parceiros.
+Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
 
 
 <div>
@@ -502,6 +517,8 @@ Durante as sprints, contribui na parte de front-end desenvolvendo com uma ferram
 Neste projeto o contato com cliente trouxe algumas divergências e dificuldades na compreensão dos requisitos referente a expertise, onde a ideia entregue não correspondeu com a necessidade do cliente. Onde a expertise seriam mais detalhadas e teriam uma página mais ampla.
 Essa experiência me permitiu muita troca com componentes do front-end e muito aprendizado no desenvolvimento de sistemas. Nesse projeto também tive a oportunidade de ter o primeiro contato com o desenvolvimento mobile e ferramentas como Android Studio, Expo e React Native.
 
+Responsável tela para gerenciar administradores ou funcionários do sistema (cadastro, edição, exclusão), onde a mesma tela com botão de alternância Toggle Button, que representava dois estados: funcionário e adminstrador. Tela cadastro de Parceiros, como funcionário da Oracle, quero poder cadastrar um novo parceiro, inserindo informações detalhadas, como nome, tipo, expertise, etc. 
+
 
 <h2>Hard Skills</h2>
 
@@ -519,7 +536,7 @@ Essa experiência me permitiu muita troca com componentes do front-end e muito a
 
 <h2>Soft Skills</h2>
 <p>
-•	Organização e Planejamento – Pela primeira vez assumi uma atividade de conecção front-end e back-end. Consegui entregar a estrutura dos controllers, especificamente na tela de edição parceiro, administrador e nas tela cadastro parceiro/administrador. Em relação a expertise fizemos a reestruturação, para adptar a necessidade do cliente com algumas alterações e nova validação. Adicionamos mais tabelas relacionais no banco entre expertise, tracks e qualificações. </p><br>
+•	Organização e Planejamento – Pela primeira vez assumi uma atividade de conecção front-end e back-end completa. Consegui entregar a estrutura dos controllers, especificamente na tela de edição parceiro, administrador e nas tela cadastro parceiro/administrador. Em relação a expertise fizemos a reestruturação, para adptar a necessidade do cliente com algumas alterações e nova validação. Adicionamos mais tabelas relacionais no banco entre expertise, tracks e qualificações. </p><br>
 <p>
 •	Equipe – Ao longo das sprints, encontrei bastante espaço para colaborar com os demais membros do grupo, compartilhar responsabilidades e contribuir para objetivos comuns. Um dos pontos mais importantes, foram as informações claras sobre as tarefas. <br>
 <p>
