@@ -117,9 +117,9 @@ Github <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a>
 
 Neste projeto contribui com a parte de front-end, onde minha atuação girou em torno da parte visual das páginas, apoiando desde a prototipagem até a estruturação, com suas respectivas estilizações. Além de contribuir para o levantamento de requisitos necessários para a validações das entregas, bem como para documentação. 
 
-Responsável na definição do design e desenvolvimento de wireframes da aplicação web através da ferramenta "Canvas", no desenvolvimento das páginas Home, e páginas contendo os links para os Githubs de cada grupo, dividios por turma, semestre e ano. 
+Responsável na definição do design e desenvolvimento de wireframes da aplicação web através da ferramenta "Canva", no desenvolvimento das páginas Home, e páginas contendo os links para os Githubs de cada grupo, dividios por turma, semestre e ano. 
 
-Inicialmente tivemos dificuldades de comunicacao clara e para entender quais eram os requisitos a serem cumpridos dentro dos prazo pre definidos em relação às entregas. A adaptção a equipe, tecnologia e prazos foram meus principais desafios.
+Inicialmente tive dificuldade para entender quais eram os requisitos a serem cumpridos dentro dos prazo pré-definidos em relação às entregas. A adaptção das tecnologias foram meus principais desafios, já que não possuia nenhum conhecimento nas ferramentas utilizadas. Isso influenciou muito na minha compreensão das APIs, apresentação do projeto e entregas de valor, dificultado pelo pelo nervosismo tornando o processo ainda mais desafiador. 
 
 <h2>Hard Skills</h2>
 
@@ -133,11 +133,11 @@ Inicialmente tivemos dificuldades de comunicacao clara e para entender quais era
 
 <h2>Soft Skills</h2>
 <p>
-•	Trabalho em equipe – Equipe muito comunicativa e empenhada. Tentei interagir o máximo possível, colaborando e sendo pro-ativa, e identificando quais falhas de comunicação precisavamos melhorar para que a equipe pudesse desenvolver e compartilhar as experiências.</p><br>
+•	Trabalho em equipe – Equipe muito comunicativa e empenhada apesar do pouco conhecimento nas tecnologias. Tentei interagir o máximo possível, colaborando e sendo pro-ativa. Todos compartilharam conhecimentos e dificuldades, o que fortaleceu o trabalho em equipe. </p><br>
 <p>
-•	Resolução de Problemas – Todas as fases do projeto tivemos que lidar com dificuldades técnicas e comportamentais, desenvolvendo habilidades sólidas de resolução, principalmente para identificar erros e otimizar processos. Para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p><br>
+•	Resolução de Problemas – Todas as fases do projeto tive que lidar com dificuldades técnicas das tecnologias utilizadas, o que causou atraso em minhas entregas, principalmente para identificar erros e otimizar processos. Para superar esses desafios, busquei aprender rapidamente tecnologias simples como VS Code e aplicar soluções alternativas quando necessário. Mantive uma postura de resiliência e de constante aprendizado, o que me ajudou a aprimorar minha capacidade de adaptação e a encontrar soluções eficazes sob pressão. </p><br>
 <p>
-•	Gerenciamento de Tempo – Precisamos nos organizar para lidar com várias tarefas, desde a criação até a entrega final, principalmente para definir prioridades e cumprir prazos previamente determinados.</p>
+•	Gerenciamento de Tempo – Precisei me organizar para lidar com várias tarefas e com a rotina de aprendizado de funcionalidades básicas dos softwares. Estabeleci prazos pessoais para cada etapa, desde a criação até a entrega final, o que me ajudou a definir prioridades e apesar das dificuldades consegui manter os prazos previamente determinados.</p>
 </p>
 </details>
 
@@ -198,7 +198,7 @@ Github <a href='https://github.com/meta-build/Pro4System'>Pro4Tech</a> </p>
 
 Neste projeto tive a oportunidade de ser Product Owner, defini uma visão geral do produto, orientando o desenvolvimento e alinhando diretamente com cliente, para garantir todos seus requisitos. Exercendo comunicação eficaz entre o cliente e equipe de desenvolvimento.
 
-Mantive e priorizei o backlog do produto e dos itens. Nas sprints, minha atuação foi focada na criação do backlog e das User Stories, validação dos requisitos e entrega de valor. Documentação e auxílio no desenvolvimento, devido a dificuldades encontradas durante o desenvolvimento e quase estourando prazo nas entregas.
+Mantive e priorizei o backlog do produto e dos itens. Nas sprints, foquei na criação do backlog e das User Stories, na validação dos requisitos e na entrega de valor. Contribuí com a documentação e ofereci suporte no desenvolvimento, especialmente devido a dificuldades encontradas ao longo do processo, que quase causaram o estouro do prazo das entregas. Esse desafio surgiu de uma funcionalidade incluída como requisito extra no projeto: uma caixa de mensagens para facilitar a comunicação entre os usuários. Inicialmente, essa função nos pareceu simples, mas, durante o desenvolvimento, enfrentamos complexidades inesperadas, como a integração de notificação em tempo real. Esses fatores demandaram mais tempo e ajustes do que prevíamos, mas a equipe trabalhou para garantir a entrega dessa funcionalidade com qualidade.
 
 
 <h2>Hard Skills</h2>
@@ -211,11 +211,11 @@ Mantive e priorizei o backlog do produto e dos itens. Nas sprints, minha atuaç�
 
 <h2>Soft Skills</h2>
 <p>
-•	Comunicação – A comunicação clara e atenção nos requisitos, foram umas das principais atividades exercida. A ponte que tive que realizar ente cliente e equipe desenvolvedora foi um dos pilares mais importantes, para uma entrega que agregasse e atendesse o cliente e cumprisse os prazos. Na entrega decidimos implementar com chat de mensagens privado, onde seria um requisito de baixa prioridade, mas que agregaria valor ao projeto.</p><br>
+•	Comunicação – A comunicação clara e atenção nos requisitos, foram umas das principais atividades exercida. A ponte que tive que realizar ente cliente e equipe desenvolvedora foi um dos pilares mais importantes, para uma entrega que agregasse e atendesse o cliente e cumprisse os prazos. Na entrega decidimos implementar com chat de mensagens privado, onde seria um requisito de baixa prioridade, mas que agregaria valor ao projeto. Porém durante o desenvolvimento a equipe encontrou dificuldade no chat. Em alguns momentos, precisei adotar uma comunicação mais clara e assertiva, cobrando a equipe para garantir que os prazos fossem cumpridos e que as entregas estivessem de acordo com os requisitos principais estabelecidos.</p><br>
 <p>
-•	Resolução de Problemas – Ao longo das sprints tive problemas com prazos, como exemplo na primeira sprint ocorreu de anteciparmos o desenvolvimento, porém na entrega seguimos uma linha de entrega da sprint em cima do prazo limite. Isso nos prejudicou na apresentação e nos requisitos acabamos que nao entregamos todas as telas , informadas ao cliente. Porém conseguimos entregar as telas de login e parceiros ja com backend dorando em todas as telas.<br>
+•	Resolução de Problemas – Ao longo das sprints tive sérios problemas com os prazos, como exemplo na primeira sprint que ocorreu de antecipar o desenvolvimento, porém na entrega a linha da sprint ficou acima do prazo limite. Isso me prejudicou na apresentação e nos requisitos  pois não entregamos todas as telas, informadas ao cliente. Porém conseguimos entregar as telas de login e parceiros ja com backend rodando e interagindo.<br>
 <p>
-•	Gerenciamento de Tempo – Este foi nosso maior desafio de escolher requisitos que primeiramente nos parecia simples, porém demandaram muito mais tempo excedendo a linha do ideal. Neste momento nas últimas horas de entrega solicitei a toda equipe que concentrasse neste requisito para que terminasse no prazo e pudéssemos entregar. Com esta força tarefa e empenho de todos apesar de uma linha nada ideal, conseguimos entregar no prazo. E o requisito de mensagens privadas agreagaram muito mais valor a entrega.</p></p>
+•	Gerenciamento de Tempo – Este foi nosso maior desafio, além de escolher requisitos que primeiramente nos parecia simples, porém demandaram muito mais tempo, excedendo a linha do ideal. Neste momento nas últimas horas de entrega solicitei a toda equipe que concentrasse neste requisito para que terminasse no prazo e pudéssemos fazer as entregas de valor. Com esta força tarefa e empenho de todos apesar de uma linha nada ideal, consegui entregar no prazo. E o requisito de mensagens privadas agreagaram muito mais valor a entrega.</p></p>
 </details>
 
 
@@ -275,8 +275,8 @@ Github <a href='https://github.com/TechForce-ADS/TrackCash'>TrackCash</a> </p>
 
 <h2 align='center'> Contribuições Pessoais</h2>
 
-Nesta API, tive a oportunidade me aprofundar na área de front-end. O que ampliou significativamente meu repertório. Ainda com dificuldade em entender a organização e desenvolvimento da equipe, fiz um CRUD que nao foi utilizado no projeto, porém me proporcionou uma visão mais ampla e agregou muito mais conhecimento. Além poder apoiar em alguns ajustes e acompanhar algumas integrações entre o front-end e o back-end, entendendo melhor como tornar as telas funcionais. 
-Responsável pela tela de Login na primeira sprint, tela editar canais na segunda sprint. Na terceira sprint iniciamos página administrador e na quarta e última sprint finalizei a página administrador.
+Nesta API, tive a oportunidade me aprofundar na área de front-end. O que ampliou significativamente meu repertório. Ainda com dificuldade em entender a organização e desenvolvimento da equipe, fiz um CRUD que nao foi utilizado no projeto, porém me proporcionou uma visão mais ampla e agregou muito mais conhecimento. Além poder apoiar em alguns ajustes e acompanhar algumas integrações entre o front-end e o back-end, entendendo melhor como tornar as telas mais funcionais. 
+Responsável pela tela de Login na primeira sprint, tela editar canais na segunda sprint. Na terceira sprint iniciamos página administrador e na quarta e última sprint finalizei a página administrador com mais funcionalidades.
 
 
 <h2>Hard Skills</h2>
@@ -291,11 +291,11 @@ Responsável pela tela de Login na primeira sprint, tela editar canais na segund
 
 <h2>Soft Skills</h2>
 <p>
-•	Comunicação – Devido a mudança de equipe tive muitos problemas com comunicação, a falta de profissionalismo de alguns membros da equipe me fizeram não compartilha dificuldades em entender o código e com isso criar discussões.</p><br>
+•	Comunicação – Devido à mudança de equipe, enfrentei muitos problemas de comunicação. A falta de profissionalismo de alguns membros, em uma equipe que já era muito fechada, me levou a não compartilhar dificuldades em entender o código. Isso resultou, inclusive, no não uso de partes do projeto que desenvolvi. Criou-se um ambiente hostil e com muitas discussões. Onde sendo necessário meu posicionamento incisivo. Isso trouxe mais respeito no relacionamento com a equipe.  </p><br>
 <p>
-•	Resolução de Problemas – Após muita dificuldade na comunicação consegui expor meu ponto de vista e definir plano estratégico para fazer minhas entregas com valor e cumprindo prazos. Com isso pude contribuir com mais autonomia e aprimorar minha habilidade. Além de ouvir ativamente e comprrender diversas ideias diferentes. <br>
+•	Resolução de Problemas – Após muita dificuldade na comunicação consegui expor meu ponto de vista e definir plano estratégico para fazer minhas entregas de valor e cumprindo prazos. Com isso pude contribuir com mais autonomia e aprimorar minha habilidade. Além de contribuir ativamente com minhas opniões. Da página home, tive a necessidade de implementar funcionalidades autenticação e autorização do usuário com uma comunicação em tempo real. As atualizações em tempo real não estavam funcionando conforme o esperado, e alguns usuários autenticados enfrentaram dificuldades para acessar a Home e perdiam a conexão. Para solucionar implementei logs detalhados para identificar se o problema está na autenticação, na autorização ou na comunicação em tempo real.<br>
 <p>
-•	Gerenciamento de Tempo – Por estar mais envolvida com o desenvolvimento, pude contribuir com novas ideias e trabalhar a possibilidade de abordar problemas de maneira inovadora. Porém isso me trouxe muita dificuldade em manter prazos e mostrar resultados.</p>
+•	Gerenciamento de Tempo – Devido aos problemas de comunicação tive muita dificuldade em manter prazos. Então resolvi priorizar e focar na entrega e no desenvolvimento. Estabeleci pequenas metas diarias como completar tarefas específicas definir alguns progressos no desenvolvimento. </p>
 </p>
 </details>
 
@@ -430,11 +430,11 @@ Responsável pela tela login e cadastro. Pelo desenvolvimento das telas de login
 
 <h2>Soft Skills</h2>
 <p>
-•	Organização e Planejamento – Desenvolver e garantir que os métodos funcionem corretamente, além de testá-los e corrigir falhas, necessitou de uma habilidade significativa de resolução de problemas. Assim, tive que identificar e abordar questões técnicas e funcionais, demonstrando a capacidade de analisar problemas complexos e encontrar soluções eficazes.</p><br>
-<p>
+•	Organização e Planejamento – Para desenvolver e garantir que os métodos funcionem corretamente, e de testá-los e corrigir falhas, foi necessária uma habilidade significativa de resolução de problemas. Assim, tive que identificar e abordar questões técnicas e funcionais, como inconsistência nos dados, para isso demonstrei a capacidade de analisar problemas complexos e uma visão de leitura do código.</p><br>
+<p> 
 •	Resolução de Problemas – No projeto, assumi o compromisso de compartilhar responsabilidades e contribuir ativamente para alcançar objetivos compartilhados, mesmo tendo dificuldades técnicas. Assim, a equipe conseguiu dividir as tarefas de acordo com as habilidades e facilidades individuais. <br>
 <p>
-•	Gerenciamento de Tempo – No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite..</p>
+•	Gerenciamento de Tempo – No projeto, melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos, pois para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite. Utilizando da estratégia da API anterior, estabelecendo pelaquenas metas diária.</p>
 </p>
 </details>
 
@@ -517,7 +517,7 @@ Durante as sprints, contribui na parte de front-end desenvolvendo com uma ferram
 Neste projeto o contato com cliente trouxe algumas divergências e dificuldades na compreensão dos requisitos referente a expertise, onde a ideia entregue não correspondeu com a necessidade do cliente. Onde a expertise seriam mais detalhadas e teriam uma página mais ampla.
 Essa experiência me permitiu muita troca com componentes do front-end e muito aprendizado no desenvolvimento de sistemas. Nesse projeto também tive a oportunidade de ter o primeiro contato com o desenvolvimento mobile e ferramentas como Android Studio, Expo e React Native.
 
-Responsável tela para gerenciar administradores ou funcionários do sistema (cadastro, edição, exclusão), onde a mesma tela com botão de alternância Toggle Button, que representava dois estados: funcionário e adminstrador. Tela cadastro de Parceiros, como funcionário da Oracle, quero poder cadastrar um novo parceiro, inserindo informações detalhadas, como nome, tipo, expertise, etc. 
+Responsável tela para gerenciar administradores ou funcionários do sistema (cadastro, edição, exclusão), onde a mesma tela com botão de alternância Toggle Button, que representava dois estados: funcionário e adminstrador. Tive dificuldades ao integrar diferentes partes do sistema, como serviços da Tela cadastro de Parceiros. Como usuário funcionário da Oracle, quero poder cadastrar um novo parceiro, inserindo informações detalhadas, como nome, tipo, expertise, etc. 
 
 
 <h2>Hard Skills</h2>
@@ -536,11 +536,11 @@ Responsável tela para gerenciar administradores ou funcionários do sistema (ca
 
 <h2>Soft Skills</h2>
 <p>
-•	Organização e Planejamento – Pela primeira vez assumi uma atividade de conecção front-end e back-end completa. Consegui entregar a estrutura dos controllers, especificamente na tela de edição parceiro, administrador e nas tela cadastro parceiro/administrador. Em relação a expertise fizemos a reestruturação, para adptar a necessidade do cliente com algumas alterações e nova validação. Adicionamos mais tabelas relacionais no banco entre expertise, tracks e qualificações. </p><br>
+•	Organização e Planejamento – Pela primeira vez assumi uma atividade de conexão front-end e back-end completa. Consegui entregar a estrutura dos controllers, especificamente na tela de edição parceiro, administrador e nas tela cadastro parceiro/administrador. Em relação a expertise contribui na reestruturação, para adptar a necessidade do cliente com algumas alterações e nova validação. </p><br>
 <p>
-•	Equipe – Ao longo das sprints, encontrei bastante espaço para colaborar com os demais membros do grupo, compartilhar responsabilidades e contribuir para objetivos comuns. Um dos pontos mais importantes, foram as informações claras sobre as tarefas. <br>
+•	Equipe – Ao longo das sprints, encontrei bastante espaço para colaborar com os demais membros do grupo, compartilhar responsabilidades e contribuir para objetivos comuns. Um dos pontos mais importantes, foram as informações claras sobre as tarefas. Isso me proporcionou a mais habilidade com a equipe.<br>
 <p>
-•	Gerenciamento de Tempo – No projeto, tive muita autonomia no desenvolvimento. Isso me deixou confortável em desenvolver em tempo necessário para aprender com mais atenção todo o sistema criado.</p>
+•	Gerenciamento de Tempo – No projeto, tive muita autonomia no desenvolvimento. Isso me deixou confortável em desenvolver em tempo necessário para aprender com mais atenção todo o sistema criado. Já possuia mais estratégias de organização de tempo o que facilitou nas entregas.</p>
 </p>
 </details>
 
