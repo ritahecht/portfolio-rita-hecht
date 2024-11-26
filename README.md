@@ -544,3 +544,98 @@ Responsável tela para gerenciar administradores ou funcionários do sistema (ca
 </p>
 </details>
 
+<details>
+    <summary>
+        <b>💻 6º Semestre</b>
+        <span style="cursor: pointer;">▼</span>
+    </summary>
+    <p><strong>Data:</strong> Agosto 2024</p>
+    <p>Empresa Parceira: <a href='https://www.linkedin.com/company/dom-rock/'>Dom Rock</a><br>
+
+O projeto consiste no desenvolvimento de um chatbot baseado em Inteligência Artificial generativa, voltado para a análise de dados comerciais e feedbacks de clientes. O principal objetivo é facilitar a interpretação dos dados qualitativos (comentários e depoimentos de consumidores) sem a necessidade de utilizar dashboards complexos ou gráficos. O chatbot será capaz de responder perguntas específicas sobre o desempenho de produtos e a opinião dos consumidores, oferecendo respostas em linguagem natural e de forma clara, objetiva e direta.
+
+
+<div>
+  <img src=" " width="300" height="200" style="display: inline-block;">
+  <img src=" " width="300" height="200" style="display: inline-block;">
+  <img src=" " width="300" height="200" style="display: inline-block;">
+</div>
+
+<p align='justify'>
+Github <a href='https://github.com/atomofatec/API-DOMROCK'>Dom Rock</a> </p>
+
+<h2 align='center'> Tecnologias Utilizadas</h2>
+<div>
+  <span>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para o desenvolvimento dos sistemas.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="vuejs" height="30" width="40" src="https://github.com/user-attachments/assets/71e1e495-7fe5-475a-9467-5f1a36dcd8a8">Vue.js</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizada para estruturação da interface no frontend.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+
+<div>
+  <span>
+    <img align="center" alt="chroma" height="40" width="40" src="https://github.com/user-attachments/assets/840797cf-2c7e-41e2-9f45-0a16243aed12">Chroma db</img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        <b>Utilizado para armazenamento de vetores.</b>  
+      </li>
+    </ul>
+  </span>
+</div>
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="groq" height="40" width="35" src="https://github.com/user-attachments/assets/efdd91bb-f1a1-416b-95cb-a7bda32324fe">
+  <span>Groq</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizado para utilização de modelos de geração de texto.</b></li>
+  </ul>
+</div>
+<br>
+
+<h2 align='center'> Contribuições Pessoais</h2>
+
+Neste semestre, exerci a função de Desenvolvedora Back-End da aplicação. Minhas tarefas incluíram a categorização de avaliações por produto, testes de estratégias de PLN, avaliação de modelos de geração de texto e atualizações na base de dados, além de melhorias para otimizar o tempo de resposta do sistema.
+
+Esse projeto foi uma oportunidade de aprimorar minhas habilidades em back-end, apesar dos desafios enfrentados na segunda sprint, devido à complexidade do projeto e ao meu primeiro contato com o desenvolvimento de um chatbot de IA generativa.
+
+Durante o desenvolvimento, enfrentei desafios em uma task. Ao baixar o projeto do repositório, percebi que a aplicação apresentava erros que inviabilizavam o funcionamento. Apesar do meu esforço para diagnosticar e corrigir o problema, não obtive uma solução a tempo para entrega da tarefa. A complexidade do sistema exigiu uma reestruturação completa, iniciando o desenvolvimento do zero. Com essa necessidade e a falta de comunicação para compreendermos o problema e resolver em grupo, sobrecarregou um único desenvolvedor.
+
+<h2>Hard Skills</h2>
+
+1.	Implementação de modelo de machine learning com Python: Sei fazer com ajuda;
+2.	Desenvolvimento front-end em Vue.js: Sei fazer com ajuda;
+3.	Chunking: Sei fazer com ajuda;
+4.	Desenvolvimento back-end com NodeJS: Sei fazer com ajuda;
+6.	Geração de Texto com IA - Realizo com pesquisas;
+
+<h2>Soft Skills</h2>
+<p>
+•	Resolução de Ploblemas: Ao longo do projeto tive que lidar com algumas dificuldades, de ordem técnica e comportamental. Esses obstáculos foram essenciais para que eu pudesse, ter mais iniciativa e me empenhar mais no desenvolvimento, encontrar soluções favoráveis para fazer minhas entregas com valor.</p><br>
+<p>
+•	Equipe – Durante a sprint, enfrentei desafios relacionados à falta de compartilhamento adequado de informações sobre a reestruturação do código. Diante disso, passei a demonstrar com mais clareza os resultados das minhas tarefas para o grupo, detalhando o que havia sido desenvolvido e como minhas entregas estavam contribuindo para os objetivos do projeto.<br>
+<p>
+•	Entrega de resultados – Devido à reestruturação do projeto, não foi possível concluir e aplicar a tarefa que eu estava desenvolvendo, o que impactou na minha nota de entrega naquele momento. No entanto, na sprint seguinte, fui motivada e desafiada a alcançar os objetivos propostos, o que despertou em mim maior autonomia e confiança. Essa experiência me incentivou a superar as dificuldades e a demonstrar minha contribuição no desenvolvimento de forma significativa.
+</p>
+</details>
