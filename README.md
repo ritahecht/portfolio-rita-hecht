@@ -556,9 +556,9 @@ O projeto consiste no desenvolvimento de um chatbot baseado em Inteligência Art
 
 
 <div>
-  <img src=" " width="300" height="200" style="display: inline-block;">
-  <img src=" " width="300" height="200" style="display: inline-block;">
-  <img src=" " width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/5ec4dd2e-4677-4eeb-8ee2-59bbdf0309c1 " width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/e9125d47-8784-42bf-9615-80f5d7aea2ef" width="300" height="200" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/6db7b87e-37f4-425e-8baa-8c5704e652ec" width="300" height="200" style="display: inline-block;">
 </div>
 
 <p align='justify'>
