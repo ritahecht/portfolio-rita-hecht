@@ -632,10 +632,10 @@ Durante o desenvolvimento, enfrentei desafios em uma task. Ao baixar o projeto d
 
 <h2>Soft Skills</h2>
 <p>
-•	Resolução de Ploblemas: Ao longo do projeto tive que lidar com algumas dificuldades, de ordem técnica e comportamental. Esses obstáculos foram essenciais para que eu pudesse, ter mais iniciativa e me empenhar mais no desenvolvimento, encontrar soluções favoráveis para fazer minhas entregas com valor.</p><br>
+•	Resolução de Ploblemas: Ao longo do projeto tive que lidar com algumas dificuldades, de ordem técnica. Tive mais iniciativa e me empenhei mais no desenvolvimento, enfrentei diversos desafios técnicos decorrentes da complexidade do projeto. Isso exigiu que eu explorasse diferentes soluções para adequar o produto final às definições estabelecidas, aplicando efetivamente a biblioteca Langchain do Python e buscando técnicas mais eficientes no desenvolvimento.</p><br>
 <p>
 •	Equipe – Durante a sprint, enfrentei desafios relacionados à falta de compartilhamento adequado de informações sobre a reestruturação do código. Diante disso, passei a demonstrar com mais clareza os resultados das minhas tarefas para o grupo, detalhando o que havia sido desenvolvido e como minhas entregas estavam contribuindo para os objetivos do projeto.<br>
 <p>
-•	Entrega de resultados – Devido à reestruturação do projeto, não foi possível concluir e aplicar a tarefa que eu estava desenvolvendo, o que impactou na minha nota de entrega naquele momento. No entanto, na sprint seguinte, fui motivada e desafiada a alcançar os objetivos propostos, o que despertou em mim maior autonomia e confiança. Essa experiência me incentivou a superar as dificuldades e a demonstrar minha contribuição no desenvolvimento de forma significativa.
+•	Entrega de resultados – Devido à reestruturação do projeto, não foi possível concluir e aplicar a tarefa que eu estava desenvolvendo, o que impactou na minha nota de entrega naquele momento. No entanto, na sprint seguinte, fui motivada e desafiada a alcançar os objetivos propostos, o que despertou em mim maior autonomia e confiança. Como o projeto envolveu o uso de tecnologias novas e exigiu a adaptação rápida às necessidades do cliente, tive que aprender e me familiarizar com várias ferramentas, como o Langchain, o Hugging Face e o ChromaDB. Essa experiência me incentivou a superar as dificuldades e a demonstrar minha contribuição no desenvolvimento de forma significativa.
 </p>
 </details>
