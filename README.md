@@ -620,7 +620,7 @@ Neste semestre, exerci a função de Desenvolvedora Back-End da aplicação. Min
 
 Esse projeto foi uma oportunidade de aprimorar minhas habilidades em back-end, apesar dos desafios enfrentados na segunda sprint, devido à complexidade do projeto e ao meu primeiro contato com o desenvolvimento de um chatbot de IA generativa.
 
-Durante o desenvolvimento, enfrentei desafios em uma task. Ao baixar o projeto do repositório, percebi que a aplicação apresentava erros que inviabilizavam o funcionamento. Apesar do meu esforço para diagnosticar e corrigir o problema, não obtive uma solução a tempo para entrega da tarefa. A complexidade do sistema exigiu uma reestruturação completa, iniciando o desenvolvimento do zero. Com essa necessidade e a falta de comunicação para compreendermos o problema e resolver em grupo, sobrecarregou um único desenvolvedor.
+Durante as primeiras sprints, enfrentei dificuldades para testar estratégias de PLN devido a erros no projeto-base que baixei do repositório. As alterações feitas anteriormente comprometeram o funcionamento da aplicação, e, apesar dos esforços, não consegui corrigir tudo a tempo. A complexidade do sistema exigiu reestruturação, e a falta de comunicação sobrecarregou um único desenvolvedor.
 
 <h2>Hard Skills</h2>
 
@@ -632,7 +632,7 @@ Durante o desenvolvimento, enfrentei desafios em uma task. Ao baixar o projeto d
 
 <h2>Soft Skills</h2>
 <p>
-•	Resolução de Ploblemas: Ao longo do projeto tive que lidar com algumas dificuldades, de ordem técnica. Tive mais iniciativa e me empenhei mais no desenvolvimento, enfrentei diversos desafios técnicos decorrentes da complexidade do projeto. Isso exigiu que eu explorasse diferentes soluções para adequar o produto final às definições estabelecidas, aplicando efetivamente a biblioteca Langchain do Python e buscando técnicas mais eficientes no desenvolvimento.</p><br>
+•	Para resolver as dificuldades encontradas, tomei a iniciativa de criar um repositório próprio. Isso me proporcionou maior autonomia para organizar o projeto, facilitando os testes e o desenvolvimento das estratégias de PLN e das outras Task. Com essa abordagem, consegui avançar de forma mais eficiente e realizar entregas significativas no prazo.</p><br>
 <p>
 •	Equipe – Durante a sprint, enfrentei desafios relacionados à falta de compartilhamento adequado de informações sobre a reestruturação do código. Diante disso, passei a demonstrar com mais clareza os resultados das minhas tarefas para o grupo, detalhando o que havia sido desenvolvido e como minhas entregas estavam contribuindo para os objetivos do projeto.<br>
 <p>
