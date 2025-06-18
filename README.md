@@ -557,8 +557,10 @@ Responsável tela para gerenciar administradores ou funcionários do sistema (ca
     </summary>
     <p><strong>Data:</strong> Agosto 2024</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/dom-rock/'>Dom Rock</a><br>
+        
+Desafio proposto pela empresa Dom Rock, especializada no setor de tecnologia com foco em Data Lakes e Inteligência Artificial, o desafio apresentado foi explorar o vasto potencial das Inteligências Artificiais no mercado, ainda subaproveitado.
 
-O projeto consiste no desenvolvimento de um chatbot baseado em Inteligência Artificial generativa, voltado para a análise de dados comerciais e feedbacks de clientes. O principal objetivo é facilitar a interpretação dos dados qualitativos (comentários e depoimentos de consumidores) sem a necessidade de utilizar dashboards complexos ou gráficos. O chatbot será capaz de responder perguntas específicas sobre o desempenho de produtos e a opinião dos consumidores, oferecendo respostas em linguagem natural e de forma clara, objetiva e direta.
+A solução proposta envolve o desenvolvimento de um chatbot alimentado por IA generativa, direcionado para a análise de dados comerciais e avaliações de clientes. O objetivo principal é simplificar a interpretação de dados qualitativos (como comentários de consumidores), eliminando a necessidade de dashboards complexos ou gráficos detalhados. O chatbot oferece respostas claras, objetivas e diretas em linguagem natural, respondendo a perguntas específicas sobre o desempenho dos produtos e a opinião dos consumidores.
 
 
 <div>
