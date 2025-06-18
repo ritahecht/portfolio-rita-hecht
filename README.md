@@ -560,7 +560,7 @@ Responsável tela para gerenciar administradores ou funcionários do sistema (ca
         
 Desafio proposto pela empresa Dom Rock, especializada no setor de tecnologia com foco em Data Lakes e Inteligência Artificial, o desafio apresentado foi explorar o vasto potencial das Inteligências Artificiais no mercado, ainda subaproveitado.
 
-A solução proposta envolve o desenvolvimento de um chatbot alimentado por IA generativa, direcionado para a análise de dados comerciais e avaliações de clientes. O objetivo principal é simplificar a interpretação de dados qualitativos (como comentários de consumidores), eliminando a necessidade de dashboards complexos ou gráficos detalhados. O chatbot oferece respostas claras, objetivas e diretas em linguagem natural, respondendo a perguntas específicas sobre o desempenho dos produtos e a opinião dos consumidores.
+A solução pensada consiste no desenvolvimento de um chatbot baseado em IA generativa, voltado para a análise de dados comerciais e reviews de clientes. O principal objetivo é facilitar a interpretação dos dados qualitativos (comentários de consumidores) sem precisar utilizar dashboards complexos ou gráficos. O chatbot é capaz de responder perguntas específicas sobre o desempenho de produtos e a opinião dos consumidores, oferecendo respostas em linguagem natural, de forma clara, objetiva e direta..
 
 
 <div>
