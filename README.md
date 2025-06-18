@@ -307,6 +307,8 @@ Responsável pela tela de Login na primeira sprint, tela editar canais na segund
     <p><strong>Data:</strong> Janeiro/2023</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/visiona-tecnologia-espacial-s-a-/'>Visona</a><br>
 
+A Visiona, empresa do setor de tecnologia espacial, solicitou um sistema para gerenciar usuários e controlar permissões de forma eficiente. O objetivo era automatizar o cadastro de clientes e funcionários, garantir segurança no acesso e agilizar a administração.O sistema deveria adotar uma arquitetura de microserviços . Além disso, seria necessária uma interface intuitiva para facilitar a criação, edição e exclusão de usuários, bem como a atribuição de permissões.   
+
 Com dificuldades de visao geral de seus usarios e integração aos sistemas. Neste projeto o cliente parceiro Visiona Tecnologia Espacial, procurava um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. Solução é desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos. 
 
 Um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usuários, sejam criados, visualizados, editados e removidos.
@@ -445,6 +447,8 @@ Responsável pela tela login e cadastro. Pelo desenvolvimento das telas de login
     </summary>
     <p><strong>Data:</strong> Janeiro/2024</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/oracle/'>oracle</a><br>
+
+A Oracle é uma empresa global de tecnologia que atua em diversas áreas, oferecendo soluções inovadoras em software, banco de dados, infraestrutura em nuvem e serviços corporativos. Com foco constante em transformação digital, a empresa investe no fortalecimento de parcerias estratégicas por meio do programa Oracle PartnerNetwork (OPN).    
 
 A necessidade do cliente é automatizar e simplificar o gerenciamento de parceiros registrados no programa Oracle PartnerNetwork, visando facilitar o cadastro, atualização de informações, acompanhamento de desenvolvimento de conhecimento e geração de relatórios em uma plataforma mobile.
 Neste projeto o cliente parceiro Oracle, propôs desenvolvimento de um aplicativo mobile, um sistema de gestão de parceiros para a Oracle. 
