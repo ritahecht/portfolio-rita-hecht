@@ -149,6 +149,8 @@ Inicialmente tive dificuldade para entender quais eram os requisitos a serem cum
     </summary>
     <p><strong>Data:</strong> Janeiro/2022</p>
     <p>Empresa Parceira: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Tech</a><br>
+        
+A PRO4Tech é uma empresa do setor de tecnologia que busca soluções inovadoras para melhorar a eficiência de seus processos internos e a comunicação com seus clientes.
 
 O propósito do projeto foi desenvolver um sistema de mensagens para centralizar a comunicação entre a empresa e seus clientes. A necessidade da empresa parceira de sistematizar e organizar as informações recebidas de clientes, essenciais para a eficácia dos serviços oferecidos. A empresa apresentou o problema da comunicação entre funcionário e clientes e o gerenciamento de projetos em andamento.
 
